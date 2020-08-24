@@ -1,5 +1,8 @@
 # R script to accompany Intro to R
-# Justin Watson
+#
+# Justin Watson Student Lehigh
+#
+# Customized by Justin Watson
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
